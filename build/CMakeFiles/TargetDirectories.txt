@@ -1,0 +1,3 @@
+/home/haiqing/Project/hdr-plus/build/CMakeFiles/edit_cache.dir
+/home/haiqing/Project/hdr-plus/build/CMakeFiles/rebuild_cache.dir
+/home/haiqing/Project/hdr-plus/build/CMakeFiles/hdrplus.dir

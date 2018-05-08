@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -g -Wall   CMakeFiles/hdrplus.dir/src/HDRPlus.cpp.o CMakeFiles/hdrplus.dir/src/align.cpp.o CMakeFiles/hdrplus.dir/src/finish.cpp.o CMakeFiles/hdrplus.dir/src/merge.cpp.o CMakeFiles/hdrplus.dir/src/util.cpp.o  -o hdrplus  -L/home/haiqing/Project/Halide/bin -rdynamic -lHalide -lpng -lpthread -ldl -Wl,-rpath,/home/haiqing/Project/Halide/bin 
